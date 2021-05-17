@@ -3,3 +3,12 @@ body{
     margin: 0;
     padding: 0;
 }
+nav{
+    margin: 0;
+    background-color: #000;
+    text-align: center;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+}
